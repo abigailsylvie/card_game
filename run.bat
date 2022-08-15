@@ -1,0 +1,1 @@
+g++ src/*.cpp main.cpp -I ./includes -o game.exe
